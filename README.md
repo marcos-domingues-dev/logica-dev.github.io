@@ -10,3 +10,7 @@ Os conteúdos estão organizados em tópicos e disponíveis no [Google Drive:](h
 - [Banco de Dados](https://drive.google.com/drive/folders/1fgNVZrOXnTHT_VGFnPPCpXKJQqTfrjBv?usp=drive_link)
 - [API Bookstore](https://drive.google.com/drive/folders/1Zom9-8IPZHdVAazL8qUpIgWwIt2DLmEY?usp=drive_link)
 
+## Materiais de Apoio:
+
+- [Anexos](https://drive.google.com/drive/folders/1-E5IdvKkLfQP5adX3lJ1wa7ksec9f0qi?usp=drive_link)
+- [Tutoriais](https://drive.google.com/drive/folders/129jc8jGKi9_d5NL4yyXyT-hwuKK27owy?usp=drive_link)
