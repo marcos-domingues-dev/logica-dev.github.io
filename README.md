@@ -2,6 +2,8 @@
 
 Este repositório concentra os materiais de um roteiro para quem está querendo ter uma primeira experiência no desenvolvimento de software e gostaria de conhecer de uma forma rápida como é desenvolver uma API backend.
 
+## Conteúdo
+
 Os conteúdos estão organizados em tópicos e disponíveis no [Google Drive:](https://drive.google.com/drive/folders/18osAXexkPgOPvBjlFBwYdrJ7XUgxQO7q?usp=drive_link):
 - [Apresentação](https://drive.google.com/drive/folders/1eul-lC1mmiVeadmj4NHM_NH2kvIcps1n?usp=drive_link)
 - [Introdução ao Backend](https://drive.google.com/drive/folders/1ZGYjMkLw8K0fdK0Vf2If5DdUTit6Sbkz?usp=drive_link)
@@ -14,3 +16,10 @@ Os conteúdos estão organizados em tópicos e disponíveis no [Google Drive:](h
 
 - [Anexos](https://drive.google.com/drive/folders/1-E5IdvKkLfQP5adX3lJ1wa7ksec9f0qi?usp=drive_link)
 - [Tutoriais](https://drive.google.com/drive/folders/129jc8jGKi9_d5NL4yyXyT-hwuKK27owy?usp=drive_link)
+
+
+## Contato
+
+Marcos Domingues
+E-mail: marcos.domingues.dev@gmail.com
+Github: https://github.com/marcos-domingues-dev
