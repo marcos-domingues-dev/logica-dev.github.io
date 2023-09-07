@@ -1,6 +1,6 @@
 # Roadmap Backend
 
-Este repositório concentra os materiais de um roteiro para quem está querendo ter uma primeira experiência no desenvolvimento de software e gostaria de conhecer de uma forma rápida como é desenvolver uma API backend.
+Este repositório concentra os materiais de um roteiro para quem não sabe programar mas está querendo ter uma primeira experiência no desenvolvimento de software e gostaria de conhecer de uma forma abrangente e rápida como é desenvolver uma API backend.
 
 ## Conteúdo
 
@@ -16,7 +16,6 @@ Os conteúdos estão organizados em tópicos e disponíveis no [Google Drive:](h
 
 - [Anexos](https://drive.google.com/drive/folders/1-E5IdvKkLfQP5adX3lJ1wa7ksec9f0qi?usp=drive_link)
 - [Tutoriais](https://drive.google.com/drive/folders/129jc8jGKi9_d5NL4yyXyT-hwuKK27owy?usp=drive_link)
-
 
 ## Contato
 
