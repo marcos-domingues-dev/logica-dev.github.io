@@ -20,5 +20,5 @@ Os conteúdos estão organizados em tópicos e disponíveis no [Google Drive:](h
 ## Contato
 
 Marcos Domingues
-E-mail: marcos.domingues.dev@gmail.com
-Github: https://github.com/marcos-domingues-dev
+- E-mail: marcos.domingues.dev@gmail.com
+- Github: https://github.com/marcos-domingues-dev
