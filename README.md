@@ -20,15 +20,15 @@ Os conteúdos estão organizados em tópicos e disponíveis no [Google Drive:](h
 
 ## Documentação Java de Referência
 
-[Página inicial do Java](https://docs.oracle.com/en/java/)
-[Especificação da linguagem e JVM](https://docs.oracle.com/javase/specs/index.html)
-[API Java SE]([https://dev.java/learn/](https://docs.oracle.com/en/java/javase/21/docs/api/index.html))
-[JDK Tools](https://docs.oracle.com/en/java/javase/21/docs/specs/man/index.html)
-[Tutoriais oficiais para aprender Java](https://dev.java/learn/)
+- [Página inicial do Java](https://docs.oracle.com/en/java/)
+- [Especificação da linguagem e JVM](https://docs.oracle.com/javase/specs/index.html)
+- [API Java SE]([https://dev.java/learn/](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+- [JDK Tools](https://docs.oracle.com/en/java/javase/21/docs/specs/man/index.html)
+- [Tutoriais oficiais para aprender Java](https://dev.java/learn/)
 
 ## Documentação Spring
 
-[Spring Projects](https://spring.io/projects)
+- [Spring Projects](https://spring.io/projects)
 
 ## Contato
 
