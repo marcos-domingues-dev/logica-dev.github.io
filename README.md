@@ -18,6 +18,18 @@ Os conteúdos estão organizados em tópicos e disponíveis no [Google Drive:](h
 - [Apostila de SpringBoot - Michelli Brito](https://drive.google.com/file/d/1f_bhMgyKTkB7gtipaIZA1L_voaACxetM/view?usp=share_link)
 - [Tutoriais](https://drive.google.com/drive/folders/129jc8jGKi9_d5NL4yyXyT-hwuKK27owy?usp=drive_link)
 
+## Documentação Java de Referência
+
+[Página inicial do Java](https://docs.oracle.com/en/java/)
+[Especificação da linguagem e JVM](https://docs.oracle.com/javase/specs/index.html)
+[API Java SE]([https://dev.java/learn/](https://docs.oracle.com/en/java/javase/21/docs/api/index.html))
+[JDK Tools](https://docs.oracle.com/en/java/javase/21/docs/specs/man/index.html)
+[Tutoriais oficiais para aprender Java](https://dev.java/learn/)
+
+## Documentação Spring
+
+[Spring Projects](https://spring.io/projects)
+
 ## Contato
 
 Marcos Domingues
